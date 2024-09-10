@@ -4,6 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+body{
+  background-color: #212121;
+  color: aliceblue;
+}
 
 .logo {
   height: 6em;
