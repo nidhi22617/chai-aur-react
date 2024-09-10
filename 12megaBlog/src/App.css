@@ -7,6 +7,7 @@
 body{
   background-color: #212121;
   color: aliceblue;
+  align-items: center;
 }
 
 .logo {

@@ -4,13 +4,14 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  console.log(import.meta.env.VITE_APPWRITE_URL);
+  
 
   return (
     <>
       <div>
       <h1 className="text-3xl font-bold underline">
-      Mega Blog Page with Appwrie
+      Mega Blog Page with Appwrie !
       </h1>
       </div>
     </>
